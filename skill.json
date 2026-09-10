@@ -1,0 +1,17 @@
+{
+  "name": "genpark-bm25-okapi-lexical-ranking-engine-skill",
+  "version": "1.0.0",
+  "description": "Okapi BM25 information retrieval ranking function incorporating term frequency saturation, inverse document frequency (IDF), and document length penalties.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bm25",
+    "okapi-bm25",
+    "lexical-search",
+    "information-retrieval",
+    "search-engine"
+  ],
+  "dependencies": []
+}
